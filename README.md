@@ -23,4 +23,8 @@
 
 6. **Persistent Storage**: This feature is also planned but not yet implemented. It will use local storage or session storage to save tasks and authentication status, ensuring data persistence across browser sessions.
 
-## ScreenShots
+## ScreenShots![Screenshot (570)](https://github.com/vaibhav1281/todo-app-04-05/assets/93854530/8a87832e-9522-4706-a932-f7759c2b515e)
+![Screenshot (571)](https://github.com/vaibhav1281/todo-app-04-05/assets/93854530/c36b731a-5c48-491e-80f0-50a4ad86cd9e)
+![Screenshot (572)](https://github.com/vaibhav1281/todo-app-04-05/assets/93854530/e996d957-4489-4eeb-b364-a06b6d0f74d5)
+![Screenshot (573)](https://github.com/vaibhav1281/todo-app-04-05/assets/93854530/3d3df31f-c78e-4ae3-a1fe-e0f1f85c1d4d)
+![Screenshot (574)](https://github.com/vaibhav1281/todo-app-04-05/assets/93854530/186535e0-24a8-49ba-b21e-37091d449cd8)
