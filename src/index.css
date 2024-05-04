@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.form{
+  @apply  flex justify-center items-center flex-wrap space-x-6 sm:text-base md:text-2xl mt-[20%] border border-pink-400 mx-20 rounded-lg max-sm:space-y-4 md:space-y-0 p-20
+}
